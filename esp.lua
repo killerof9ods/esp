@@ -2,7 +2,7 @@
     ESP library made by tested#0001 & tatar0071#0627
     You do not got permisssion to use this.
 ]]
-
+-- fixed testeds errors
 -- // Services
 local get_service = game.GetService; 
 local tween = get_service(game, "TweenService");
